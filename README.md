@@ -4,6 +4,8 @@
 
 This dataset contains 4,276 audio files in WAV format, each with a duration of 2 seconds. The dataset is designed for research on harmonic intervals in music. Harmonic intervals are pairs of notes played simultaneously, representing the distance between two pitches.
 
+**DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18065723.svg)](https://doi.org/10.5281/zenodo.18065723)
+
 ## Dataset Structure
 
 The dataset is organized in the following hierarchical structure:
